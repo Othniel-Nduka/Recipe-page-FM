@@ -12,7 +12,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: (https://github.com/Othniel-Nduka/socialLinkProfile)
+- Solution URL: (https://github.com/Othniel-Nduka/Recipe-page-FM)
 - Live Site URL: (https://recipepagefmchallenge.vercel.app/)
 
 ## My process
